@@ -1,3 +1,3 @@
-[Privacy Policy](PRIVACY.md) 
-[Terms and Conditions](TERMS.md)
+* [Privacy Policy](PRIVACY.md) 
+* [Terms and Conditions](TERMS.md)
 
