@@ -1,4 +1,3 @@
-
 **Privacy Policy for Tillion**
 
 *Effective Date: 2021-11-21*
