@@ -1,4 +1,4 @@
-**Terms and Conditions for Tillion**
+**Terms and Conditions**
 
 *Effective Date: 2021-11-21*
 
