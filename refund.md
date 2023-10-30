@@ -1,4 +1,4 @@
-**Refund Policy for Tillion**
+**Refund Policy**
 
 *Effective Date: 2023-10-30*
 
