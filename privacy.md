@@ -58,6 +58,6 @@ Tillion is fully committed to complying with all relevant laws and regulations g
 
 If you have any questions, concerns, or requests regarding your data or this Privacy Policy, please feel free to contact us using the following contact details:
 
-Tillion (Pvt) Ltd.
-info@tillion.lk
+Tillion (Pvt) Ltd. \
+info@tillion.lk \
 +94 77 06 600 06
