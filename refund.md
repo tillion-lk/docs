@@ -42,7 +42,7 @@ b. **Product Refunds**:
 
 **4. Refund Timeframe**
 
-Refunds will typically be processed within [X] business days from the date of approval. Please note that the time it takes for the refund to reach your account may vary depending on your payment method and financial institution.
+Refunds will typically be processed within 5 business days from the date of approval. Please note that the time it takes for the refund to reach your account may vary depending on your payment method and financial institution.
 
 **5. Non-Refundable Items**
 
