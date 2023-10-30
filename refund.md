@@ -54,8 +54,8 @@ b. **Shipping Costs**: Shipping costs for product orders are non-refundable unle
 
 If you have any questions, concerns, or requests related to refunds or this Refund Policy, please feel free to contact us using the following contact details:
 
-Tillion (Pvt) Ltd.
-info@tillion.lk
+Tillion (Pvt) Ltd. \
+info@tillion.lk \
 +94 77 06 600 06
 
 **7. Changes to Refund Policy**
