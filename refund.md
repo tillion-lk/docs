@@ -4,7 +4,9 @@
 
 **1. Introduction**
 
-Welcome to Tillion! At Tillion, we value our customers' satisfaction and are committed to providing high-quality services and products. This Refund Policy is designed to outline our procedures and guidelines for requesting and processing refunds for services and products purchased through our platform.
+Welcome to Tillion! At Tillion, we value our customers' satisfaction and are committed to providing high-quality services and products. This Refund Policy is designed to outline our procedures and guidelines for requesting and processing refunds for services and products purchased through our platform. 
+
+All the refunds are made from the same payment media it originated.
 
 **2. Refund Eligibility**
 
